@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/css/main.0d7e1868.css",
-    "main.js": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/js/main.727ec62f.js",
+    "main.js": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/js/main.266da711.js",
     "index.html": "/javascript-calculatornpm%20install%20--save%20gh-pages/index.html",
     "main.0d7e1868.css.map": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/css/main.0d7e1868.css.map",
-    "main.727ec62f.js.map": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/js/main.727ec62f.js.map"
+    "main.266da711.js.map": "/javascript-calculatornpm%20install%20--save%20gh-pages/static/js/main.266da711.js.map"
   },
   "entrypoints": [
     "static/css/main.0d7e1868.css",
-    "static/js/main.727ec62f.js"
+    "static/js/main.266da711.js"
   ]
 }
